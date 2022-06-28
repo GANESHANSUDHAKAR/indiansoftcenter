@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Story &#8211; Achievion Solutions &#8211; Achieve the Impossible with the power of AI</title>
+	<atom:link href="https://achievion.com/story/feed" rel="self" type="application/rss+xml" />
+	<link>https://achievion.com</link>
+	<description>Smart web and mobile applications powered by AI</description>
+	<lastBuildDate>Mon, 09 Dec 2019 12:06:19 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://achievion.com/wp-content/uploads/2019/12/cropped-ezgif.com-crop-1-32x32.png</url>
+	<title>Story &#8211; Achievion Solutions &#8211; Achieve the Impossible with the power of AI</title>
+	<link>https://achievion.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>About Achievion</title>
+		<link>https://achievion.com/story/story.html</link>
+					<comments>https://achievion.com/story/story.html#respond</comments>
+		
+		<dc:creator><![CDATA[achiadmin]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2016 12:51:47 +0000</pubDate>
+				<category><![CDATA[Story]]></category>
+		<guid isPermaLink="false">http://achivion/?p=127</guid>
+
+					<description><![CDATA[Dreams come true.]]></description>
+										<content:encoded><![CDATA[<div class="row">
+<div class="col-md-6">
+<div class="about_story_itm">
+<div class="story_itm_title">
+<h5>Alex Comes to America</h5>
+</div>
+<div class="story_itm_desc">
+<p>The story of Achievion begins with Alex Jacome. In 2003, Alex came to the US from Belarus with $300 in his pocket and a big dream to start a software development company. Why? While working on his Computer Science degree, he LOVED coming up with elegant and simple solutions to complex problems. And, now he wanted to apply this art by helping leaders and organizations who shared the same passion.</p>
+</div>
+</div>
+<div class="about_story_itm">
+<div class="story_itm_title">
+<h5>He Optimizes Himself</h5>
+</div>
+<div class="story_itm_desc">
+<p>After putting his suitcase down, he hit the ground running and landed himself a position as a Java Developer at SAIC.</p>
+<p>At just 28 years of age, he received a promotion to the position of Solutions Architect within the company. Alex’s organizational vision, innovative ideas, obsession with quality code, and excellent people skills were the main factors that helped to propel his career with the company.</p>
+</div>
+</div>
+<div class="about_story_itm mb-0">
+<div class="story_itm_title">
+<h5>His Obsession With Seeing Clients Succeed Won’t End</h5>
+</div>
+<div class="story_itm_desc">
+<p>During his time with SAIC, Alex worked with around 200 employees. He learned a lot about software design and building high quality, mission critical software products for a number of large enterprise organizations. He also discovered a new passion – he LOVED seeing clients succeed. With this experience under his belt and a drive to help clients win, Alex decided that it was time to venture out on his own and founded Achievion (from “achieve”, “win”, “succeed”) in 2013.</p>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="about_story_itm">
+<div class="story_itm_title">
+<h5>Now We Can’t Stop Building Awesome Stuff. . .</h5>
+</div>
+<div class="story_itm_desc">
+<p>Today, we’re team of architects, senior developers and product managers dedicated to creating the world’s best mobile and web applications leveraging sophisticated technologies of AI.</p>
+<p>At Achievion, our core beliefs are quality design and excellent customer service. Our mission is to deliver bullet-proof software and exceptional experiences to our clients. That means a response time of under 1 hour for 95% of the inquiries that we receive and projects delivered on-time and on-budget.</p>
+</div>
+</div>
+<div class="about_story_itm">
+<div class="story_itm_title">
+<h5>. . . and Getting Awards for Making Our Clients Happy</h5>
+</div>
+<div class="story_itm_desc">
+<p>As an award-winning company, we’ve worked with a range of clients from startups to well-established businesses and government organizations. At Achievion we deliver great products that people love to use.</p>
+<p>We hope that you’ll join us on this awesome journey and share our passion for elegant solutions to complex problems. We can’t wait to help you WIN!</p>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://achievion.com/story/story.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

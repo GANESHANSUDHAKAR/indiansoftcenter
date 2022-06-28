@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Future Of AI: Breakthroughs in AI That Are Anticipated in The Next Decade	</title>
+	<atom:link href="https://achievion.com/blog/breakthroughs-in-ai-that-are-anticipated-in-the-next-decade.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://achievion.com/blog/breakthroughs-in-ai-that-are-anticipated-in-the-next-decade.html</link>
+	<description>Smart web and mobile applications powered by AI</description>
+	<lastBuildDate>Fri, 27 Dec 2019 15:10:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+</channel>
+</rss>

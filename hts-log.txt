@@ -1,0 +1,419 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 25 Jun 2022 15:54:13 at https://achievion.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://achievion.com/ -O1 "C:\Users\Ganesh\OneDrive\Desktop\New folder\indiansoftcenter" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:55:20	Error: 	"Bad Request" (400) at link https://achievion.com/wp-admin/admin-ajax.php (from https://achievion.com/)
+15:58:45	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/ai-document-classification-service.html: Permission denied
+15:58:49	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/ai-demand-forecasting-service.html: Permission denied
+15:58:53	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/ai-drug-effectiveness-prediction-software.html: Permission denied
+15:58:56	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/ai-fraud-detection-software.html: Permission denied
+15:59:04	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/home-improvement-marketplace.html: Permission denied
+15:59:08	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/thought-leadersheap/axios-ai-2050.html: Permission denied
+15:59:12	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/thought-leadersheap/atarc-ai-working-group.html: Permission denied
+15:59:15	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/thought-leadersheap/nvtc-impact-ai-conference.html: Permission denied
+15:59:15	Warning: 	Moved Permanently for https://achievion.com/?p=3013
+15:59:15	Warning: 	File has moved from https://achievion.com/?p=3013 to https://achievion.com/services
+15:59:16	Warning: 	Moved Permanently for https://achievion.com/?p=3652
+15:59:16	Warning: 	File has moved from https://achievion.com/?p=3652 to https://achievion.com/solutions
+15:59:22	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/transport-management-software.html: Permission denied
+15:59:26	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/just-answer-chatbot.html: Permission denied
+15:59:30	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/ai-investment-marketplace.html: Permission denied
+15:59:33	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/retail-traffic-analytics-ai-software.html: Permission denied
+15:59:36	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/face-recognition-software.html: Permission denied
+15:59:44	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/forte.html: Permission denied
+15:59:48	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/blockchain-apps.html: Permission denied
+15:59:53	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/test-automation-platform.html: Permission denied
+15:59:57	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/network-quality-app.html: Permission denied
+16:00:06	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/physical-therapy-app.html: Permission denied
+16:00:10	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/veteran-benefits.html: Permission denied
+16:00:15	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/yoga.html: Permission denied
+16:00:19	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/telnet.html: Permission denied
+16:00:23	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/1001wonders.html: Permission denied
+16:00:27	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/grassroot-project.html: Permission denied
+16:00:32	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/pay4schoolstuff-com.html: Permission denied
+16:00:36	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/stylecable-2.html: Permission denied
+16:00:42	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/kidslearnto.html: Permission denied
+16:00:52	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/socialtables.html: Permission denied
+16:00:58	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/itsonme-app.html: Permission denied
+16:01:02	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/iedision-project.html: Permission denied
+16:01:06	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/portfolio/nih-assist.html: Permission denied
+16:01:11	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/synthetic-image-and-data-generation.html: Permission denied
+16:01:15	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/8-ways-ai-helps-in-business-decision-making.html: Permission denied
+16:01:18	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-ai-is-helping-businesses-in-their-marketing-strategy.html: Permission denied
+16:01:21	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/ai-predictions-for-2022.html: Permission denied
+16:01:26	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/will-quantum-computing-take-ai-to-the-next-level.html: Permission denied
+16:01:29	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-to-invest-in-artificial-intelligence.html: Permission denied
+16:01:32	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/clutch-achievion-solutions-declared-top-ai-company-in-2021.html: Permission denied
+16:01:36	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-ai-can-help-find-the-optimal-solution-through-iterations-of-trial-and-error.html: Permission denied
+16:01:39	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-ai-is-helping-analyze-massive-amounts-of-data-to-find-meaningful-patterns-and-anomalies.html: Permission denied
+16:01:42	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-ai-can-help-transform-data-about-individuals-into-personalized-intelligence.html: Permission denied
+16:01:45	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-ai-is-helping-change-big-data-into-predictive-intelligence.html: Permission denied
+16:01:50	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-ai-recognition-technology-is-helping-turn-images-objects-and-people-into-business-intelligence.html: Permission denied
+16:01:53	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/conversational-human-interaction-how-ai-is-helping-transform-words-and-communication-logic-into-intelligent-business-assistants.html: Permission denied
+16:01:56	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/breakthroughs-in-ai-that-are-anticipated-in-the-next-decade.html: Permission denied
+16:01:59	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/ethical-ai-101-establishing-governance-mechanisms.html: Permission denied
+16:02:03	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/ethical-ai-101-ensuring-an-unbiased-ai.html: Permission denied
+16:02:09	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/understanding-the-first-3-principles-for-ethical-ai.html: Permission denied
+16:02:12	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/understanding-the-ethical-ai-and-explainable-ai-concepts.html: Permission denied
+16:02:16	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/12-ways-ai-can-improve-retail-industry.html: Permission denied
+16:02:19	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/11-ways-ai-can-improve-the-real-estate-industry.html: Permission denied
+16:02:24	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/ai-and-blockchain-how-these-disruptive-technologies-are-collaborating-for-a-better-tomorrow.html: Permission denied
+16:02:27	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/the-presidential-ai-directive-and-its-implications-on-the-federal-agencies.html: Permission denied
+16:02:30	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/8-ways-ai-can-improve-banking-industry.html: Permission denied
+16:02:35	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-pretrained-ai-ml-datasets-help-increase-the-efficiency-of-ai-software-development.html: Permission denied
+16:02:39	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/clutch-achievion-solutions-declared-top-ai-developer-in-2019.html: Permission denied
+16:02:42	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/ai-forecast-for-2019.html: Permission denied
+16:02:46	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-artificial-intelligence-ai-is-helping-to-make-the-smart-cities-concept-a-reality.html: Permission denied
+16:02:49	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/ai-software-development-process-a-step-by-step-guide-for-developing-ai-enabled-products.html: Permission denied
+16:02:52	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-ai-and-blockchain-can-help-increase-efficiency-of-a-data-center.html: Permission denied
+16:02:55	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-ai-is-revolutionizing-manufacturing.html: Permission denied
+16:02:57	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/paradigm-shift-banking-industry-ai.html: Permission denied
+16:03:01	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/what-are-neural-networks-and-how-are-they-such-a-game-changer.html: Permission denied
+16:03:04	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/improving-food-safety-with-blockchain.html: Permission denied
+16:03:07	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-can-luxury-retailers-use-blockchain.html: Permission denied
+16:03:11	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/using-blockchain-technology-detect-prevent-cyberattacks.html: Permission denied
+16:03:13	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/blockchain-can-secure-patient-health-data.html: Permission denied
+16:03:17	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/can-ai-change-education.html: Permission denied
+16:03:20	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/blockchain-solutions-sharing-economy.html: Permission denied
+16:03:23	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/clutch-achievion-solutions-declared-top-app-developer.html: Permission denied
+16:03:26	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/ai-revolution-ecommerce.html: Permission denied
+16:03:28	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/blockchain-government-blockchain-transforming-regulation-compliance.html: Permission denied
+16:03:31	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/7-blockchain-strategy-planning-considerations.html: Permission denied
+16:03:35	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/businesses-risk-failure-without-ai.html: Permission denied
+16:03:42	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/ais-impact-enterprise-data-management.html: Permission denied
+16:03:45	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/leveraging-identity-management-for-blockchain.html: Permission denied
+16:03:48	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/blockchain-implementation-5-business-practices-increase-success-project.html: Permission denied
+16:03:50	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/product-manager-vs-project-manager-which-one-is-better-for-your-business.html: Permission denied
+16:03:53	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/ai-business-hype-vs-reality.html: Permission denied
+16:03:56	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/5-signs-tipping-point-blockchain-adoption.html: Permission denied
+16:03:58	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/choosing-right-governance-model-enterprise-blockchain.html: Permission denied
+16:04:01	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/5-ways-ai-improves-small-business-productivity.html: Permission denied
+16:04:04	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/public-vs-private-blockchain-differences.html: Permission denied
+16:04:07	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/business-ready-ai.html: Permission denied
+16:04:09	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/potential-pitfalls-smart-contracts.html: Permission denied
+16:04:29	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/5-predictions-ai-enterprise-app-development.html: Permission denied
+16:04:34	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/5-trends-blockchain-application-development-2018.html: Permission denied
+16:04:36	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/top-5-popular-blockchains-pros-cons.html: Permission denied
+16:04:39	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/4-ways-use-blockchain-rid-business-recurring-problems.html: Permission denied
+16:04:44	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/types-machine-learning-algorithms.html: Permission denied
+16:04:47	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/5-use-cases-machine-learning-software-development.html: Permission denied
+16:04:50	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/10-tips-follow-successful-machine-learning-strategy.html: Permission denied
+16:04:53	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/relationship-big-data-machine-learning.html: Permission denied
+16:05:07	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/ethereum-ultimate-beginners-guide.html: Permission denied
+16:05:15	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/use-cases-blockchains-app-development.html: Permission denied
+16:05:17	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/top-7-ethereum-decentralized-apps.html: Permission denied
+16:05:20	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/blockchain-technology-right-solution-app.html: Permission denied
+16:05:24	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/use-ico-fund-app-project.html: Permission denied
+16:05:27	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/5-reasons-app-startups-utilizing-ethereum-network.html: Permission denied
+16:05:31	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/7-free-marketing-tools-app-promotion.html: Permission denied
+16:05:35	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/ecommerce-apps-consumers-want.html: Permission denied
+16:05:38	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/understanding-startup-funding-stages.html: Permission denied
+16:05:41	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/software-engineers-versus-coders-know.html: Permission denied
+16:05:44	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/2016-top-web-developer-dc-copy.html: Permission denied
+16:05:47	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/3-ways-find-angel-investors-startup.html: Permission denied
+16:05:49	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/7-ways-promote-app-social-media.html: Permission denied
+16:05:53	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/startup-101-dont-let-financing-woes-hold-back-dream.html: Permission denied
+16:05:57	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/what-are-progressive-web-applications.html: Permission denied
+16:06:01	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/web-application-speed-why-performance-matters.html: Permission denied
+16:06:06	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/6-best-practices-for-web-development-project-management.html: Permission denied
+16:06:08	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-to-communicate-with-your-development-team.html: Permission denied
+16:06:11	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/6-reasons-why-web-development-quotes-vary-from-company-to-company.html: Permission denied
+16:06:24	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-is-a-web-application-different-than-a-website.html: Permission denied
+16:06:44	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/10-web-development-trends-for-2017.html: Permission denied
+16:06:48	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/5-features-that-increase-trust-in-your-saas-app.html: Permission denied
+16:06:55	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-to-incorporate-customer-feedback-into-saas-development-process.html: Permission denied
+16:06:59	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/7-features-to-include-in-your-app-to-attract-new-users.html: Permission denied
+16:07:03	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/9-metrics-to-use-to-evaluate-the-success-of-your-app.html: Permission denied
+16:07:06	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/contact.html: Permission denied
+16:07:09	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/3-potential-pitfalls-of-lift-and-shift-transition.html: Permission denied
+16:07:13	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/should-you-convert-your-web-experience-to-mobile-app.html: Permission denied
+16:07:16	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/5-characteristics-of-great-apps.html: Permission denied
+16:07:19	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-to-build-apps-faster.html: Permission denied
+16:07:24	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/mobile-ui-ux-flaws-that-can-ruin-your-mobile-app.html: Permission denied
+16:07:27	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/5-important-cost-considerations-for-saas-apps-development.html: Permission denied
+16:07:30	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/here-are-7-reasons-why-custom-enterprise-apps-are-so-popular.html: Permission denied
+16:07:33	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/why-you-need-to-develop-buyer-personas-for-saas-app.html: Permission denied
+16:07:36	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/8-questions-to-ask-before-building-app.html: Permission denied
+16:07:40	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/how-to-protect-your-mobile-app-from-attacks.html: Permission denied
+16:07:44	Error: 	Unable to save file C:/Users/Ganesh/OneDrive/Desktop/New folder/indiansoftcenter/achievion.com/blog/ipaas-latest-link-in-evolution-of-information-system-integration.html: Permission denied
+16:07:44	Warning: 	Moved Permanently for https://achievion.com/?p=8
+16:07:44	Warning: 	File has moved from https://achievion.com/?p=8 to https://achievion.com/contact
+16:07:44	Warning: 	Moved Permanently for https://achievion.com/?p=3431
+16:07:44	Warning: 	File has moved from https://achievion.com/?p=3431 to https://achievion.com/portfolio/ai-document-classification-service.html
+16:07:44	Error: 	"Method Not Allowed" (405) at link https://achievion.com/xmlrpc.php (from https://achievion.com/portfolio/ai-document-classification-service.html)
+16:07:44	Warning: 	Moved Permanently for https://achievion.com/?p=3411
+16:07:44	Warning: 	File has moved from https://achievion.com/?p=3411 to https://achievion.com/portfolio/ai-demand-forecasting-service.html
+16:07:44	Warning: 	Moved Permanently for https://achievion.com/?p=3456
+16:07:44	Warning: 	File has moved from https://achievion.com/?p=3456 to https://achievion.com/portfolio/ai-drug-effectiveness-prediction-software.html
+16:07:44	Warning: 	Moved Permanently for https://achievion.com/?p=3467
+16:07:44	Warning: 	File has moved from https://achievion.com/?p=3467 to https://achievion.com/portfolio/ai-fraud-detection-software.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=3314
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=3314 to https://achievion.com/portfolio/home-improvement-marketplace.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=2951
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=2951 to https://achievion.com/thought-leadersheap/axios-ai-2050.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=2889
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=2889 to https://achievion.com/thought-leadersheap/atarc-ai-working-group.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=2499
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=2499 to https://achievion.com/thought-leadersheap/nvtc-impact-ai-conference.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=3170
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=3170 to https://achievion.com/portfolio/transport-management-software.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=2401
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=2401 to https://achievion.com/portfolio/just-answer-chatbot.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=1888
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=1888 to https://achievion.com/portfolio/ai-investment-marketplace.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=3554
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=3554 to https://achievion.com/portfolio/retail-traffic-analytics-ai-software.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=2428
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=2428 to https://achievion.com/portfolio/face-recognition-software.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=1206
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=1206 to https://achievion.com/portfolio/forte.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=1617
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=1617 to https://achievion.com/portfolio/blockchain-apps.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=3195
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=3195 to https://achievion.com/portfolio/test-automation-platform.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=3112
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=3112 to https://achievion.com/portfolio/network-quality-app.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=2065
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=2065 to https://achievion.com/portfolio/physical-therapy-app.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=1015
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=1015 to https://achievion.com/portfolio/veteran-benefits.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=703
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=703 to https://achievion.com/portfolio/yoga.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=695
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=695 to https://achievion.com/portfolio/telnet.html
+16:07:45	Warning: 	Moved Permanently for https://achievion.com/?p=763
+16:07:45	Warning: 	File has moved from https://achievion.com/?p=763 to https://achievion.com/portfolio/1001wonders.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=1008
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=1008 to https://achievion.com/portfolio/grassroot-project.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=295
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=295 to https://achievion.com/portfolio/pay4schoolstuff-com.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=298
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=298 to https://achievion.com/portfolio/stylecable-2.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=770
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=770 to https://achievion.com/portfolio/kidslearnto.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=438
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=438 to https://achievion.com/portfolio/socialtables.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=300
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=300 to https://achievion.com/portfolio/itsonme-app.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=268
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=268 to https://achievion.com/portfolio/iedision-project.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=266
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=266 to https://achievion.com/portfolio/nih-assist.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=3744
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=3744 to https://achievion.com/blog/synthetic-image-and-data-generation.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=3599
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=3599 to https://achievion.com/blog/8-ways-ai-helps-in-business-decision-making.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=3531
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=3531 to https://achievion.com/blog/how-ai-is-helping-businesses-in-their-marketing-strategy.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=3500
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=3500 to https://achievion.com/blog/ai-predictions-for-2022.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=3493
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=3493 to https://achievion.com/blog/will-quantum-computing-take-ai-to-the-next-level.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=3484
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=3484 to https://achievion.com/blog/how-to-invest-in-artificial-intelligence.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=3381
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=3381 to https://achievion.com/blog/clutch-achievion-solutions-declared-top-ai-company-in-2021.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=3310
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=3310 to https://achievion.com/blog/how-ai-can-help-find-the-optimal-solution-through-iterations-of-trial-and-error.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=3306
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=3306 to https://achievion.com/blog/how-ai-is-helping-analyze-massive-amounts-of-data-to-find-meaningful-patterns-and-anomalies.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=3296
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=3296 to https://achievion.com/blog/how-ai-can-help-transform-data-about-individuals-into-personalized-intelligence.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=3192
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=3192 to https://achievion.com/blog/how-ai-is-helping-change-big-data-into-predictive-intelligence.html
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=3099
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=3099 to https://achievion.com/blog/how-ai-recognition-technology-is-helping-turn-images-objects-and-people-into-business-intelligence.html
+16:07:46	Error: 	"Not Found" (404) at link https://achievion.com/contacts (from https://achievion.com/blog/how-ai-recognition-technology-is-helping-turn-images-objects-and-people-into-business-intelligence.html)
+16:07:46	Warning: 	Moved Permanently for https://achievion.com/?p=3095
+16:07:46	Warning: 	File has moved from https://achievion.com/?p=3095 to https://achievion.com/blog/conversational-human-interaction-how-ai-is-helping-transform-words-and-communication-logic-into-intelligent-business-assistants.html
+16:07:47	Warning: 	Moved Permanently for https://achievion.com/?p=2978
+16:07:47	Warning: 	File has moved from https://achievion.com/?p=2978 to https://achievion.com/blog/breakthroughs-in-ai-that-are-anticipated-in-the-next-decade.html
+16:07:47	Warning: 	Moved Permanently for https://achievion.com/?p=2947
+16:07:47	Warning: 	File has moved from https://achievion.com/?p=2947 to https://achievion.com/blog/ethical-ai-101-establishing-governance-mechanisms.html
+16:07:47	Warning: 	Moved Permanently for https://achievion.com/?p=2930
+16:07:47	Warning: 	File has moved from https://achievion.com/?p=2930 to https://achievion.com/blog/ethical-ai-101-ensuring-an-unbiased-ai.html
+16:07:47	Warning: 	Moved Permanently for https://achievion.com/?p=2832
+16:07:47	Warning: 	File has moved from https://achievion.com/?p=2832 to https://achievion.com/blog/understanding-the-first-3-principles-for-ethical-ai.html
+16:07:47	Warning: 	Moved Permanently for https://achievion.com/?p=2805
+16:07:47	Warning: 	File has moved from https://achievion.com/?p=2805 to https://achievion.com/blog/understanding-the-ethical-ai-and-explainable-ai-concepts.html
+16:07:47	Warning: 	Moved Permanently for https://achievion.com/?p=2767
+16:07:47	Warning: 	File has moved from https://achievion.com/?p=2767 to https://achievion.com/blog/12-ways-ai-can-improve-retail-industry.html
+16:07:47	Warning: 	Moved Permanently for https://achievion.com/?p=2697
+16:07:47	Warning: 	File has moved from https://achievion.com/?p=2697 to https://achievion.com/blog/11-ways-ai-can-improve-the-real-estate-industry.html
+16:07:47	Warning: 	Moved Permanently for https://achievion.com/?p=2667
+16:07:47	Warning: 	File has moved from https://achievion.com/?p=2667 to https://achievion.com/blog/ai-and-blockchain-how-these-disruptive-technologies-are-collaborating-for-a-better-tomorrow.html
+16:07:52	Warning: 	Moved Permanently for https://achievion.com/?p=2656
+16:07:52	Warning: 	File has moved from https://achievion.com/?p=2656 to https://achievion.com/blog/the-presidential-ai-directive-and-its-implications-on-the-federal-agencies.html
+16:07:52	Warning: 	Moved Permanently for https://achievion.com/?p=2731
+16:07:52	Warning: 	File has moved from https://achievion.com/?p=2731 to https://achievion.com/blog/8-ways-ai-can-improve-banking-industry.html
+16:07:52	Warning: 	Moved Permanently for https://achievion.com/?p=2631
+16:07:52	Warning: 	File has moved from https://achievion.com/?p=2631 to https://achievion.com/blog/how-pretrained-ai-ml-datasets-help-increase-the-efficiency-of-ai-software-development.html
+16:07:52	Warning: 	Moved Permanently for https://achievion.com/?p=2535
+16:07:52	Warning: 	File has moved from https://achievion.com/?p=2535 to https://achievion.com/blog/clutch-achievion-solutions-declared-top-ai-developer-in-2019.html
+16:07:52	Warning: 	Moved Permanently for https://achievion.com/?p=2513
+16:07:52	Warning: 	File has moved from https://achievion.com/?p=2513 to https://achievion.com/blog/ai-forecast-for-2019.html
+16:07:52	Warning: 	Moved Permanently for https://achievion.com/?p=2488
+16:07:52	Warning: 	File has moved from https://achievion.com/?p=2488 to https://achievion.com/blog/how-artificial-intelligence-ai-is-helping-to-make-the-smart-cities-concept-a-reality.html
+16:07:52	Warning: 	Moved Permanently for https://achievion.com/?p=2382
+16:07:52	Warning: 	File has moved from https://achievion.com/?p=2382 to https://achievion.com/blog/ai-software-development-process-a-step-by-step-guide-for-developing-ai-enabled-products.html
+16:07:52	Warning: 	Moved Permanently for https://achievion.com/?p=2357
+16:07:52	Warning: 	File has moved from https://achievion.com/?p=2357 to https://achievion.com/blog/how-ai-and-blockchain-can-help-increase-efficiency-of-a-data-center.html
+16:07:52	Warning: 	Moved Permanently for https://achievion.com/?p=2255
+16:07:52	Warning: 	File has moved from https://achievion.com/?p=2255 to https://achievion.com/blog/how-ai-is-revolutionizing-manufacturing.html
+16:07:52	Warning: 	Moved Permanently for https://achievion.com/?p=2017
+16:07:52	Warning: 	File has moved from https://achievion.com/?p=2017 to https://achievion.com/blog/paradigm-shift-banking-industry-ai.html
+16:07:52	Warning: 	Moved Permanently for https://achievion.com/?p=2045
+16:07:52	Warning: 	File has moved from https://achievion.com/?p=2045 to https://achievion.com/blog/what-are-neural-networks-and-how-are-they-such-a-game-changer.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=2033
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=2033 to https://achievion.com/blog/improving-food-safety-with-blockchain.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=2027
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=2027 to https://achievion.com/blog/how-can-luxury-retailers-use-blockchain.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=2015
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=2015 to https://achievion.com/blog/using-blockchain-technology-detect-prevent-cyberattacks.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1958
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1958 to https://achievion.com/blog/blockchain-can-secure-patient-health-data.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1957
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1957 to https://achievion.com/blog/can-ai-change-education.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1949
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1949 to https://achievion.com/blog/blockchain-solutions-sharing-economy.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1938
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1938 to https://achievion.com/blog/clutch-achievion-solutions-declared-top-app-developer.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1922
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1922 to https://achievion.com/blog/ai-revolution-ecommerce.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1905
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1905 to https://achievion.com/blog/blockchain-government-blockchain-transforming-regulation-compliance.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1850
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1850 to https://achievion.com/blog/7-blockchain-strategy-planning-considerations.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1843
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1843 to https://achievion.com/blog/businesses-risk-failure-without-ai.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1838
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1838 to https://achievion.com/blog/ais-impact-enterprise-data-management.html
+16:07:53	Error: 	"Not Found" (404) at link https://achievion.com/contactus (from https://achievion.com/blog/ais-impact-enterprise-data-management.html)
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1803
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1803 to https://achievion.com/blog/leveraging-identity-management-for-blockchain.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1778
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1778 to https://achievion.com/blog/blockchain-implementation-5-business-practices-increase-success-project.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=2330
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=2330 to https://achievion.com/blog/product-manager-vs-project-manager-which-one-is-better-for-your-business.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1770
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1770 to https://achievion.com/blog/ai-business-hype-vs-reality.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1732
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1732 to https://achievion.com/blog/5-signs-tipping-point-blockchain-adoption.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1714
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1714 to https://achievion.com/blog/choosing-right-governance-model-enterprise-blockchain.html
+16:07:53	Warning: 	Moved Permanently for https://achievion.com/?p=1687
+16:07:53	Warning: 	File has moved from https://achievion.com/?p=1687 to https://achievion.com/blog/5-ways-ai-improves-small-business-productivity.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1676
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1676 to https://achievion.com/blog/public-vs-private-blockchain-differences.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1653
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1653 to https://achievion.com/blog/business-ready-ai.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1621
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1621 to https://achievion.com/blog/potential-pitfalls-smart-contracts.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1601
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1601 to https://achievion.com/blog/5-predictions-ai-enterprise-app-development.html
+16:07:54	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://damapi.forbes.com/dam/louiscolumbus/files/2017/06/AI-Use-Cases.jpg (from https://achievion.com/blog/5-predictions-ai-enterprise-app-development.html)
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1477
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1477 to https://achievion.com/blog/5-trends-blockchain-application-development-2018.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1546
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1546 to https://achievion.com/blog/top-5-popular-blockchains-pros-cons.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1472
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1472 to https://achievion.com/blog/4-ways-use-blockchain-rid-business-recurring-problems.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1474
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1474 to https://achievion.com/blog/impact-ai-workforce.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1467
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1467 to https://achievion.com/blog/types-machine-learning-algorithms.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1443
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1443 to https://achievion.com/blog/5-use-cases-machine-learning-software-development.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1399
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1399 to https://achievion.com/blog/10-tips-follow-successful-machine-learning-strategy.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1339
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1339 to https://achievion.com/blog/relationship-big-data-machine-learning.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1403
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1403 to https://achievion.com/blog/ethereum-ultimate-beginners-guide.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1323
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1323 to https://achievion.com/blog/use-cases-blockchains-app-development.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1297
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1297 to https://achievion.com/blog/top-7-ethereum-decentralized-apps.html
+16:07:54	Warning: 	Moved Permanently for https://achievion.com/?p=1276
+16:07:54	Warning: 	File has moved from https://achievion.com/?p=1276 to https://achievion.com/blog/blockchain-technology-right-solution-app.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=1243
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=1243 to https://achievion.com/blog/use-ico-fund-app-project.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=1231
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=1231 to https://achievion.com/blog/5-reasons-app-startups-utilizing-ethereum-network.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=1192
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=1192 to https://achievion.com/blog/7-free-marketing-tools-app-promotion.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=1177
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=1177 to https://achievion.com/blog/ecommerce-apps-consumers-want.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=1161
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=1161 to https://achievion.com/blog/understanding-startup-funding-stages.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=1152
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=1152 to https://achievion.com/blog/software-engineers-versus-coders-know.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=1145
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=1145 to https://achievion.com/blog/2016-top-web-developer-dc-copy.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=1121
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=1121 to https://achievion.com/blog/3-ways-find-angel-investors-startup.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=1101
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=1101 to https://achievion.com/blog/7-ways-promote-app-social-media.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=1094
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=1094 to https://achievion.com/blog/startup-101-dont-let-financing-woes-hold-back-dream.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=1046
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=1046 to https://achievion.com/blog/what-are-progressive-web-applications.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=1034
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=1034 to https://achievion.com/blog/web-application-speed-why-performance-matters.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=1000
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=1000 to https://achievion.com/blog/6-best-practices-for-web-development-project-management.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=990
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=990 to https://achievion.com/blog/how-to-communicate-with-your-development-team.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=972
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=972 to https://achievion.com/blog/6-reasons-why-web-development-quotes-vary-from-company-to-company.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=881
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=881 to https://achievion.com/blog/how-is-a-web-application-different-than-a-website.html
+16:07:55	Warning: 	Moved Permanently for https://achievion.com/?p=877
+16:07:55	Warning: 	File has moved from https://achievion.com/?p=877 to https://achievion.com/blog/10-web-development-trends-for-2017.html
+16:07:56	Warning: 	Moved Permanently for https://achievion.com/?p=593
+16:07:56	Warning: 	File has moved from https://achievion.com/?p=593 to https://achievion.com/blog/5-features-that-increase-trust-in-your-saas-app.html
+16:07:56	Error: 	"Not Found" (404) at link https://achievion.com/blog/blog/5-important-cost-considerations-for-saas-apps-development (from https://achievion.com/blog/5-features-that-increase-trust-in-your-saas-app.html)
+16:07:56	Warning: 	Moved Permanently for https://achievion.com/?p=590
+16:07:56	Warning: 	File has moved from https://achievion.com/?p=590 to https://achievion.com/blog/how-to-incorporate-customer-feedback-into-saas-development-process.html
+16:07:56	Error: 	"Not Found" (404) at link https://achievion.com/blog/blog/why-you-need-to-develop-buyer-personas-for-saas-app (from https://achievion.com/blog/how-to-incorporate-customer-feedback-into-saas-development-process.html)
+16:07:56	Error: 	"Not Found" (404) at link https://achievion.com/blog/home (from https://achievion.com/blog/how-to-incorporate-customer-feedback-into-saas-development-process.html)
+16:07:56	Warning: 	Moved Permanently for https://achievion.com/?p=586
+16:07:56	Warning: 	File has moved from https://achievion.com/?p=586 to https://achievion.com/blog/7-features-to-include-in-your-app-to-attract-new-users.html
+16:07:56	Error: 	"Not Found" (404) at link https://achievion.com/blog/blog/mobile-ui-ux-flaws-that-can-ruin-your-mobile-app (from https://achievion.com/blog/7-features-to-include-in-your-app-to-attract-new-users.html)
+16:07:56	Warning: 	Moved Permanently for https://achievion.com/?p=583
+16:07:56	Warning: 	File has moved from https://achievion.com/?p=583 to https://achievion.com/blog/9-metrics-to-use-to-evaluate-the-success-of-your-app.html
+16:07:56	Error: 	"Not Found" (404) at link https://achievion.com/blog/blog/5-characteristics-of-great-apps (from https://achievion.com/blog/9-metrics-to-use-to-evaluate-the-success-of-your-app.html)
+16:07:56	Warning: 	Moved Permanently for https://achievion.com/?p=180
+16:07:56	Warning: 	File has moved from https://achievion.com/?p=180 to https://achievion.com/blog/contact.html
+16:07:56	Warning: 	Moved Permanently for https://achievion.com/?p=580
+16:07:56	Warning: 	File has moved from https://achievion.com/?p=580 to https://achievion.com/blog/3-potential-pitfalls-of-lift-and-shift-transition.html
+16:07:57	Warning: 	Moved Permanently for https://achievion.com/?p=577
+16:07:57	Warning: 	File has moved from https://achievion.com/?p=577 to https://achievion.com/blog/should-you-convert-your-web-experience-to-mobile-app.html
+16:07:57	Warning: 	Moved Permanently for https://achievion.com/?p=574
+16:07:57	Warning: 	File has moved from https://achievion.com/?p=574 to https://achievion.com/blog/5-characteristics-of-great-apps.html
+16:07:57	Warning: 	Moved Permanently for https://achievion.com/?p=570
+16:07:57	Warning: 	File has moved from https://achievion.com/?p=570 to https://achievion.com/blog/how-to-build-apps-faster.html
+16:07:57	Warning: 	Moved Permanently for https://achievion.com/?p=567
+16:07:57	Warning: 	File has moved from https://achievion.com/?p=567 to https://achievion.com/blog/mobile-ui-ux-flaws-that-can-ruin-your-mobile-app.html
+16:07:57	Warning: 	Moved Permanently for https://achievion.com/?p=561
+16:07:57	Warning: 	File has moved from https://achievion.com/?p=561 to https://achievion.com/blog/5-important-cost-considerations-for-saas-apps-development.html
+16:07:57	Error: 	"Not Found" (404) at link https://achievion.com/blog/blog/8-questions-to-ask-before-building-app (from https://achievion.com/blog/5-important-cost-considerations-for-saas-apps-development.html)
+16:07:57	Warning: 	Moved Permanently for https://achievion.com/?p=238
+16:07:57	Warning: 	File has moved from https://achievion.com/?p=238 to https://achievion.com/blog/here-are-7-reasons-why-custom-enterprise-apps-are-so-popular.html
+16:07:57	Warning: 	Moved Permanently for https://achievion.com/?p=564
+16:07:57	Warning: 	File has moved from https://achievion.com/?p=564 to https://achievion.com/blog/why-you-need-to-develop-buyer-personas-for-saas-app.html
+16:07:57	Warning: 	Moved Permanently for https://achievion.com/?p=559
+16:07:57	Warning: 	File has moved from https://achievion.com/?p=559 to https://achievion.com/blog/8-questions-to-ask-before-building-app.html
+16:07:57	Warning: 	Moved Permanently for https://achievion.com/?p=556
+16:07:57	Warning: 	File has moved from https://achievion.com/?p=556 to https://achievion.com/blog/how-to-protect-your-mobile-app-from-attacks.html
+16:07:57	Warning: 	Moved Permanently for https://achievion.com/?p=553
+16:07:57	Warning: 	File has moved from https://achievion.com/?p=553 to https://achievion.com/blog/ipaas-latest-link-in-evolution-of-information-system-integration.html
+16:08:10	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://damapi.forbes.com/dam/louiscolumbus/files/2017/06/AI-Use-Cases.jpg (from https://achievion.com/blog/5-predictions-ai-enterprise-app-development.html)
+16:08:26	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://damapi.forbes.com/dam/louiscolumbus/files/2017/06/AI-Use-Cases.jpg (from https://achievion.com/blog/5-predictions-ai-enterprise-app-development.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 13 seconds : 1392 links scanned, 1245 files written (98739616 bytes overall) [83133769 bytes received at 97460 bytes/sec], 21788184 bytes transferred using HTTP compression in 581 files, ratio 22%, 16.1 requests per connection
+(140 errors, 268 warnings, 0 messages)

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: How Pretrained AI/ML Datasets Help Increase the Efficiency of AI Software Development	</title>
+	<atom:link href="https://achievion.com/blog/how-pretrained-ai-ml-datasets-help-increase-the-efficiency-of-ai-software-development.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://achievion.com/blog/how-pretrained-ai-ml-datasets-help-increase-the-efficiency-of-ai-software-development.html</link>
+	<description>Smart web and mobile applications powered by AI</description>
+	<lastBuildDate>Wed, 08 May 2019 08:40:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+</channel>
+</rss>

@@ -1,0 +1,476 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="541" height="472" viewBox="0 0 541 472">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_222" data-name="Rectangle 222" width="541" height="472" transform="translate(779 4)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_16" data-name="Mask Group 16" transform="translate(-779 -4)" clip-path="url(#clip-path)">
+    <g id="Group_990" data-name="Group 990" transform="translate(106.33 -4074.125)">
+      <path id="Path_1144" data-name="Path 1144" d="M889.412,4283.672,877.4,4244.4l24.473-26.156-9.766,33.88Z" fill="#e6edfd"/>
+      <path id="Path_1145" data-name="Path 1145" d="M743.282,4318.015,799.652,4315l45.661-33.03V4241.66l18.954-13.329-5.113,13.217-4.049,40.043,3.388,11.35-26.7,58.489Z" fill="#e6edfd"/>
+      <path id="Path_1146" data-name="Path 1146" d="M794.332,4482.263l18.256,25.271,17.366.032,6.086-10.818-19.327-1.863Z" fill="#e6edfd"/>
+      <path id="Path_1147" data-name="Path 1147" d="M912.571,4330.936l47.217-10.517-24.737-36.18,30.942-2.271-6.2-11.768s29.659-.774,28.4-1.159-19.18-33.2-19.18-33.2l60.272,4.539-1.012-32.125,4.363-18.269,5.141,7.471,11.98-.45,3.763-20.906,21.6,27.205,4.724,23.284-7.316,3.487,6.154,29.545-14.172,16.347,3.1,13.582-18.8,30.292-41.754,21.768-25.755,26.234-38.9,1.686-14.9-8.552-12.046-14.958-39.822-22.583Z" fill="#e6edfd"/>
+      <path id="Path_1148" data-name="Path 1148" d="M915.879,4382.333l-17.735-7.242-3.5,21.961-23.452,19.4-12.317,36.19-6.1-9.577-30.738,43.012,20.247,3.375,11.782.9,34.425-66.488Z" fill="#e6edfd"/>
+      <path id="Path_1149" data-name="Path 1149" d="M1103.351,4405.468l53.653-10.1-13.835-35.747,12.672-12.437-10.648-22.848,13.514-15.713,33.089,1.488,7.061,8.226-7.086,99.019-81.359-3.659Z" fill="#e6edfd"/>
+      <path id="Path_1150" data-name="Path 1150" d="M944.095,4527.594l-33.762-41.738-1.405,12.016,54.623,67.528L1070,4492.469l-32.9-17.768-12.886,14.109-25.076-8.156-33.576,48.62Z" fill="#e6edfd"/>
+      <line id="Line_1005" data-name="Line 1005" y1="12.1" x2="26.77" transform="translate(958.813 4328.72)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1006" data-name="Line 1006" x1="28.345" y2="25.083" transform="translate(985.583 4303.637)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1007" data-name="Line 1007" x1="16.422" y2="26.321" transform="translate(1013.928 4277.316)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1008" data-name="Line 1008" x1="12.148" y2="38.019" transform="translate(1030.35 4239.298)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1009" data-name="Line 1009" x2="4.724" y2="41.843" transform="translate(1037.774 4197.455)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1010" data-name="Line 1010" x2="38.019" y2="0.514" transform="translate(920.794 4340.306)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1011" data-name="Line 1011" x2="20.921" y2="8.774" transform="translate(899.873 4331.532)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1012" data-name="Line 1012" x2="18.897" y2="23.396" transform="translate(880.976 4308.136)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1013" data-name="Line 1013" x2="7.143" y2="29.02" transform="translate(873.833 4279.116)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1014" data-name="Line 1014" x1="3.571" y2="34.719" transform="translate(873.833 4244.397)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1015" data-name="Line 1015" x1="13.02" y2="34.344" transform="translate(877.404 4210.053)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1016" data-name="Line 1016" x1="20.022" y2="22.721" transform="translate(890.424 4187.332)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1017" data-name="Line 1017" x1="29.695" y2="21.821" transform="translate(910.446 4165.511)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1018" data-name="Line 1018" x1="27.22" y2="7.649" transform="translate(940.141 4157.862)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1019" data-name="Line 1019" x1="29.849" y1="1.35" transform="translate(967.361 4157.862)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1020" data-name="Line 1020" x1="24.929" y1="15.522" transform="translate(997.21 4159.212)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1021" data-name="Line 1021" x1="15.635" y1="22.721" transform="translate(1022.139 4174.734)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1022" data-name="Line 1022" y1="4.925" x2="40.437" transform="translate(928.309 4358.933)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1023" data-name="Line 1023" x1="37.586" y2="18.663" transform="translate(968.746 4340.27)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1024" data-name="Line 1024" x1="30.093" y2="29.032" transform="translate(1006.332 4311.238)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1025" data-name="Line 1025" x1="19.806" y2="34.086" transform="translate(1036.424 4277.151)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1026" data-name="Line 1026" x1="10.564" y2="31.554" transform="translate(1056.23 4245.597)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1027" data-name="Line 1027" x2="0.844" y2="41.933" transform="translate(1065.951 4203.665)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1028" data-name="Line 1028" x2="12.053" y2="29.68" transform="translate(1053.897 4173.985)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1029" data-name="Line 1029" x2="16.448" y2="18.793" transform="translate(1037.449 4155.192)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1030" data-name="Line 1030" x2="20.231" y2="11.665" transform="translate(1017.219 4143.527)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1031" data-name="Line 1031" x2="32.402" y2="8.295" transform="translate(984.817 4135.232)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1032" data-name="Line 1032" y1="5.532" x2="34.778" transform="translate(950.039 4135.232)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1033" data-name="Line 1033" y1="18.447" x2="33.744" transform="translate(916.295 4140.765)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1034" data-name="Line 1034" y1="24.071" x2="27.67" transform="translate(888.625 4159.212)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1035" data-name="Line 1035" y1="27.445" x2="17.547" transform="translate(871.078 4183.283)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1036" data-name="Line 1036" y1="30.82" x2="11.923" transform="translate(859.155 4210.728)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1037" data-name="Line 1037" y1="40.043" x2="4.049" transform="translate(855.105 4241.548)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1038" data-name="Line 1038" x1="4.049" y1="23.846" transform="translate(855.105 4281.591)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1039" data-name="Line 1039" x1="5.961" y1="19.122" transform="translate(859.155 4305.437)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1040" data-name="Line 1040" x1="14.735" y1="16.422" transform="translate(865.116 4324.559)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1041" data-name="Line 1041" x1="22.721" y1="14.398" transform="translate(879.851 4340.981)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1042" data-name="Line 1042" x1="25.737" y1="8.479" transform="translate(902.572 4355.378)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1043" data-name="Line 1043" x1="39.775" y2="2.835" transform="translate(942.391 4366.693)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1044" data-name="Line 1044" x1="37.036" y2="17.467" transform="translate(982.165 4349.226)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1045" data-name="Line 1045" x1="29.603" y2="29.385" transform="translate(1019.201 4319.841)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1046" data-name="Line 1046" x1="19.924" y2="31.074" transform="translate(1048.804 4288.768)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1047" data-name="Line 1047" x1="9.952" y2="29.148" transform="translate(1068.728 4259.62)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1048" data-name="Line 1048" x1="1.162" y2="33.032" transform="translate(1078.68 4226.588)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1049" data-name="Line 1049" x2="4.724" y2="23.284" transform="translate(1075.118 4203.304)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1050" data-name="Line 1050" x2="21.221" y2="29.32" transform="translate(1053.897 4173.985)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1051" data-name="Line 1051" y1="111.734" x2="71.65" transform="translate(792.229 4349.601)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1052" data-name="Line 1052" x1="24.525" y1="14.467" transform="translate(874.274 4359.618)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1053" data-name="Line 1053" x2="10.395" y2="10.017" transform="translate(863.879 4349.601)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1054" data-name="Line 1054" x1="17.589" y1="6.52" transform="translate(898.799 4374.084)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1055" data-name="Line 1055" y1="108.851" x2="74.106" transform="translate(842.283 4380.605)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1056" data-name="Line 1056" x2="7.761" y2="12.823" transform="translate(792.229 4461.335)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1057" data-name="Line 1057" x1="22.046" y1="11.923" transform="translate(799.99 4474.158)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1058" data-name="Line 1058" x1="20.247" y1="3.374" transform="translate(822.036 4486.081)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1059" data-name="Line 1059" x2="7.761" y2="12.823" transform="translate(785.986 4468.627)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1060" data-name="Line 1060" x1="22.046" y1="11.923" transform="translate(793.747 4481.45)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1061" data-name="Line 1061" x1="20.247" y1="3.374" transform="translate(815.793 4493.373)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1062" data-name="Line 1062" y1="10.143" x2="6.58" transform="translate(779.406 4468.627)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1063" data-name="Line 1063" x1="6.861" y1="14.173" transform="translate(779.406 4478.77)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1064" data-name="Line 1064" x1="26.096" y1="14.398" transform="translate(786.267 4492.942)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1065" data-name="Line 1065" x1="17.591" y1="0.225" transform="translate(812.363 4507.34)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1066" data-name="Line 1066" x1="6.086" y2="10.818" transform="translate(829.953 4496.747)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1067" data-name="Line 1067" x1="11.619" y1="8.22" transform="translate(1021.015 4181.764)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1068" data-name="Line 1068" x2="18.053" y2="7.592" transform="translate(1002.961 4174.172)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1069" data-name="Line 1069" x2="28.008" y2="0.844" transform="translate(974.954 4173.328)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1070" data-name="Line 1070" y1="6.918" x2="25.814" transform="translate(949.139 4173.328)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1071" data-name="Line 1071" y1="19.74" x2="28.176" transform="translate(920.963 4180.246)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1072" data-name="Line 1072" y1="19.234" x2="17.716" transform="translate(903.247 4199.986)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1073" data-name="Line 1073" y1="33.238" x2="11.473" transform="translate(891.774 4219.22)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1074" data-name="Line 1074" y1="31.213" x2="2.362" transform="translate(889.412 4252.458)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1075" data-name="Line 1075" x1="8.099" y1="26.489" transform="translate(889.412 4283.672)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1076" data-name="Line 1076" x1="15.522" y1="19.572" transform="translate(897.511 4310.161)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1077" data-name="Line 1077" x1="19.908" y1="10.738" transform="translate(913.033 4329.733)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1078" data-name="Line 1078" y1="15.035" x2="9.513" transform="translate(869.076 4339.575)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1079" data-name="Line 1079" y1="16.903" x2="10.562" transform="translate(909.307 4361.077)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1080" data-name="Line 1080" x2="4.695" y2="6.444" transform="translate(911.694 4374.161)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1081" data-name="Line 1081" x2="7.718" y2="1.026" transform="translate(863.879 4349.601)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1082" data-name="Line 1082" y1="7.892" x2="5.879" transform="translate(788.757 4465.313)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1083" data-name="Line 1083" x2="5.441" y2="0.993" transform="translate(785.986 4468.627)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1084" data-name="Line 1084" x1="4.634" y2="7.56" transform="translate(831.684 4488.461)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1085" data-name="Line 1085" x1="2.517" y1="3.727" transform="translate(833.523 4493.02)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1086" data-name="Line 1086" x2="12.869" y2="8.957" transform="translate(1006.332 4340.27)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1087" data-name="Line 1087" x2="12.379" y2="8.604" transform="translate(1036.424 4311.238)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1088" data-name="Line 1088" x2="12.497" y2="11.616" transform="translate(1056.23 4277.151)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1089" data-name="Line 1089" x2="12.307" y2="12.763" transform="translate(1066.372 4246.857)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1090" data-name="Line 1090" x2="13.891" y2="22.923" transform="translate(1065.951 4203.665)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1091" data-name="Line 1091" x1="47.497" y2="112.639" transform="translate(744.199 4205.554)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1092" data-name="Line 1092" x1="26.278" y2="62.318" transform="translate(829.01 4279.788)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1093" data-name="Line 1093" x1="84.811" y1="23.913" transform="translate(744.199 4318.193)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1094" data-name="Line 1094" x1="24.209" y2="57.412" transform="translate(833.209 4295.21)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1095" data-name="Line 1095" x1="84.811" y1="23.913" transform="translate(748.398 4328.709)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1096" data-name="Line 1096" x2="73.246" y2="21.034" transform="translate(791.696 4205.554)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1097" data-name="Line 1097" x2="4.199" y2="10.517" transform="translate(744.199 4318.193)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1098" data-name="Line 1098" x2="4.199" y2="10.517" transform="translate(829.01 4342.105)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1099" data-name="Line 1099" y1="62.989" x2="105.282" transform="translate(910.333 4422.867)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1100" data-name="Line 1100" y1="62.989" x2="105.282" transform="translate(964.957 4490.395)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1101" data-name="Line 1101" x2="54.623" y2="67.528" transform="translate(1015.615 4422.867)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1102" data-name="Line 1102" x2="54.623" y2="67.528" transform="translate(910.333 4485.856)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1103" data-name="Line 1103" y1="62.989" x2="105.282" transform="translate(963.551 4502.411)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1104" data-name="Line 1104" x2="54.623" y2="67.528" transform="translate(908.928 4497.872)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1105" data-name="Line 1105" y1="12.016" x2="1.405" transform="translate(1068.833 4490.395)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1106" data-name="Line 1106" y1="12.016" x2="1.405" transform="translate(908.928 4485.856)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1107" data-name="Line 1107" x1="7.086" y2="99.019" transform="translate(1103.351 4306.449)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1108" data-name="Line 1108" x1="7.086" y2="99.019" transform="translate(1184.71 4310.108)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1109" data-name="Line 1109" x2="81.359" y2="3.659" transform="translate(1110.437 4306.449)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1110" data-name="Line 1110" x2="81.359" y2="3.659" transform="translate(1103.351 4405.468)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1111" data-name="Line 1111" x1="7.086" y2="99.019" transform="translate(1191.771 4318.334)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1112" data-name="Line 1112" x2="81.359" y2="3.659" transform="translate(1110.412 4413.693)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1113" data-name="Line 1113" x2="7.061" y2="8.225" transform="translate(1103.351 4405.468)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1114" data-name="Line 1114" x2="7.061" y2="8.225" transform="translate(1191.796 4310.108)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1115" data-name="Line 1115" x2="13.419" y2="7.76" transform="translate(968.746 4358.933)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1116" data-name="Line 1116" x2="14.082" y2="5.671" transform="translate(928.309 4363.858)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.291"/>
+      <line id="Line_1117" data-name="Line 1117" x2="7.061" y2="8.225" transform="translate(1184.71 4409.127)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1118" data-name="Line 1118" y1="10.103" x2="53.653" transform="translate(1103.351 4395.365)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1119" data-name="Line 1119" x1="27.706" y1="13.762" transform="translate(1157.004 4395.365)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1120" data-name="Line 1120" x2="39.517" y2="84.794" transform="translate(1145.193 4324.333)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1121" data-name="Line 1121" x1="13.514" y2="15.713" transform="translate(1145.193 4308.62)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1122" data-name="Line 1122" x1="13.144" y1="28.874" transform="translate(1158.707 4308.62)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1123" data-name="Line 1123" x1="19.945" y2="27.385" transform="translate(1171.851 4310.108)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1124" data-name="Line 1124" x1="17.635" y1="4.887" transform="translate(1171.851 4337.494)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1125" data-name="Line 1125" x1="6.411" y1="39.987" transform="translate(1171.851 4337.494)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1126" data-name="Line 1126" y1="57.871" x2="14.847" transform="translate(1157.004 4337.494)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1127" data-name="Line 1127" x1="21.259" y2="17.884" transform="translate(1157.004 4377.481)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1128" data-name="Line 1128" x1="29.379" y2="9.616" transform="translate(1157.004 4385.75)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1129" data-name="Line 1129" x2="13.835" y2="35.747" transform="translate(1143.169 4359.618)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1130" data-name="Line 1130" x1="12.672" y2="12.437" transform="translate(1143.169 4347.181)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1131" data-name="Line 1131" x1="0.025" y2="107.244" transform="translate(1191.771 4310.108)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1132" data-name="Line 1132" x1="21.259" y2="10.103" transform="translate(1135.745 4395.365)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1133" data-name="Line 1133" y1="3.071" x2="27.126" transform="translate(1019.201 4346.155)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1134" data-name="Line 1134" x1="29.915" y1="48.367" transform="translate(1046.327 4346.155)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1135" data-name="Line 1135" x1="31.715" y1="35.994" transform="translate(1046.327 4346.155)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1136" data-name="Line 1136" y1="12.373" x2="1.8" transform="translate(1076.243 4382.149)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1137" data-name="Line 1137" x1="17.997" y2="6.186" transform="translate(1076.243 4388.335)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1138" data-name="Line 1138" x2="16.197" y2="6.186" transform="translate(1078.042 4382.149)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1139" data-name="Line 1139" x1="16.197" y2="81.886" transform="translate(1094.24 4306.449)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1140" data-name="Line 1140" x1="9.111" y1="17.133" transform="translate(1094.24 4388.335)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1141" data-name="Line 1141" y1="13.385" x2="21.146" transform="translate(1110.437 4293.064)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1142" data-name="Line 1142" x1="42.743" y2="14.96" transform="translate(1110.437 4291.489)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1143" data-name="Line 1143" y1="1.575" x2="21.596" transform="translate(1131.583 4291.489)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1144" data-name="Line 1144" x2="1.406" y2="12.598" transform="translate(1130.177 4280.466)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1145" data-name="Line 1145" x1="23.002" y1="11.023" transform="translate(1130.177 4280.466)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1146" data-name="Line 1146" x2="31.382" y2="15.522" transform="translate(1098.795 4264.944)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1147" data-name="Line 1147" x2="18.953" y2="38.356" transform="translate(1079.842 4226.588)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1148" data-name="Line 1148" x1="2.475" y1="11.248" transform="translate(1153.18 4291.489)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1149" data-name="Line 1149" y1="3.712" x2="45.217" transform="translate(1110.437 4302.737)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1150" data-name="Line 1150" x1="37.379" y1="7.27" transform="translate(1154.417 4302.839)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1151" data-name="Line 1151" x2="35.589" y2="6.383" transform="translate(879.851 4340.981)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1152" data-name="Line 1152" x1="12.868" y1="16.494" transform="translate(915.441 4347.364)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1153" data-name="Line 1153" y1="8.014" x2="12.868" transform="translate(902.572 4347.364)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1154" data-name="Line 1154" x1="41.46" y1="4.007" transform="translate(915.441 4347.364)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1155" data-name="Line 1155" x1="11.846" y1="7.561" transform="translate(956.901 4351.371)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1156" data-name="Line 1156" y1="12.486" x2="28.592" transform="translate(928.309 4351.371)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1157" data-name="Line 1157" x1="35.769" y2="10.705" transform="translate(956.901 4340.666)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1158" data-name="Line 1158" x1="13.662" y2="0.397" transform="translate(992.669 4340.27)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1159" data-name="Line 1159" x1="40.095" y2="38.604" transform="translate(992.669 4302.063)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1160" data-name="Line 1160" x1="17.945" y2="40.189" transform="translate(1032.764 4261.873)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1161" data-name="Line 1161" x1="5.123" y1="8.884" transform="translate(1032.764 4302.063)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1162" data-name="Line 1162" y1="23.473" x2="13.563" transform="translate(1019.201 4325.753)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1163" data-name="Line 1163" x1="3.66" y2="14.516" transform="translate(1032.764 4311.238)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1164" data-name="Line 1164" x1="16.197" y2="11.978" transform="translate(1037.887 4298.969)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1165" data-name="Line 1165" x1="2.7" y2="18.841" transform="translate(1054.084 4280.128)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1166" data-name="Line 1166" x1="14.644" y2="10.202" transform="translate(1054.084 4288.768)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1167" data-name="Line 1167" x1="5.521" y1="15.278" transform="translate(1050.709 4261.873)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1168" data-name="Line 1168" x1="1.406" y2="28.499" transform="translate(1050.709 4233.374)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1169" data-name="Line 1169" x1="14.257" y1="13.483" transform="translate(1052.116 4233.374)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1170" data-name="Line 1170" x2="2.418" y2="37.494" transform="translate(1049.697 4195.88)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1171" data-name="Line 1171" x1="16.675" y1="50.976" transform="translate(1049.697 4195.88)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1172" data-name="Line 1172" x1="4.143" y2="23.021" transform="translate(1049.755 4173.985)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1173" data-name="Line 1173" x1="14.753" y1="6.974" transform="translate(1049.755 4197.005)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1174" data-name="Line 1174" x2="12.305" y2="41.813" transform="translate(1037.449 4155.192)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1175" data-name="Line 1175" x2="3.908" y2="17.034" transform="translate(1017.219 4143.527)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1176" data-name="Line 1176" x1="16.322" y2="5.37" transform="translate(1021.127 4155.192)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1177" data-name="Line 1177" x1="28.627" y1="36.444" transform="translate(1021.127 4160.562)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1178" data-name="Line 1178" x2="6.575" y2="26.41" transform="translate(1065.951 4203.665)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1179" data-name="Line 1179" x1="7.316" y2="3.487" transform="translate(1072.526 4226.588)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1180" data-name="Line 1180" x1="6.154" y1="29.545" transform="translate(1072.526 4230.075)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1181" data-name="Line 1181" y1="16.347" x2="14.172" transform="translate(1064.508 4259.62)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1182" data-name="Line 1182" x1="4.22" y1="12.801" transform="translate(1064.508 4275.967)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1183" data-name="Line 1183" y1="0.973" x2="22.461" transform="translate(968.746 4357.959)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1184" data-name="Line 1184" x1="16.392" y2="16.808" transform="translate(991.207 4341.151)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1185" data-name="Line 1185" x1="12.772" y1="1.418" transform="translate(982.165 4366.693)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1186" data-name="Line 1186" x1="7.518" y1="4.365" transform="translate(994.938 4368.111)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1187" data-name="Line 1187" x1="10.025" y1="4.173" transform="translate(1019.201 4349.226)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1188" data-name="Line 1188" x2="4.666" y2="4.942" transform="translate(1048.804 4319.841)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1189" data-name="Line 1189" x1="5.296" y1="7.986" transform="translate(1053.47 4324.784)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1190" data-name="Line 1190" x2="2.866" y2="8.346" transform="translate(1068.728 4288.768)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1191" data-name="Line 1191" x1="4.335" y1="4.681" transform="translate(1071.594 4297.113)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1192" data-name="Line 1192" x2="4.087" y2="8.174" transform="translate(1078.68 4259.62)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1193" data-name="Line 1193" y1="2.668" x2="13.148" transform="translate(1053.47 4308.279)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1194" data-name="Line 1194" x1="2.11" y2="19.511" transform="translate(1066.618 4288.768)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1195" data-name="Line 1195" y1="9.313" x2="46.755" transform="translate(913.033 4320.419)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1196" data-name="Line 1196" x1="2.025" y1="8.051" transform="translate(956.788 4332.77)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1197" data-name="Line 1197" x1="2.999" y2="12.35" transform="translate(956.788 4320.419)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1198" data-name="Line 1198" x1="13.385" y1="1.237" transform="translate(972.198 4327.483)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1199" data-name="Line 1199" x2="12.41" y2="7.064" transform="translate(959.788 4320.419)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1200" data-name="Line 1200" y1="5.287" x2="15.41" transform="translate(956.788 4327.483)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1201" data-name="Line 1201" y1="7.559" x2="20.189" transform="translate(959.788 4312.86)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1202" data-name="Line 1202" x1="5.607" y1="15.86" transform="translate(979.977 4312.86)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1203" data-name="Line 1203" x1="10.298" y2="19.347" transform="translate(979.977 4293.514)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1204" data-name="Line 1204" x1="23.653" y1="10.123" transform="translate(990.275 4293.514)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1205" data-name="Line 1205" x1="6.205" y2="38.451" transform="translate(959.788 4281.968)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1206" data-name="Line 1206" x1="24.282" y1="11.546" transform="translate(965.993 4281.968)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1207" data-name="Line 1207" x1="15.15" y2="27.49" transform="translate(990.275 4266.023)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1208" data-name="Line 1208" y1="4.651" x2="64.358" transform="translate(965.993 4277.316)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1209" data-name="Line 1209" x2="24.926" y2="11.293" transform="translate(1005.425 4266.023)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1210" data-name="Line 1210" x1="8.504" y1="37.614" transform="translate(1005.425 4266.023)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1211" data-name="Line 1211" y1="15.944" x2="39.432" transform="translate(965.993 4266.023)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1212" data-name="Line 1212" x1="23.857" y2="25.646" transform="translate(1005.425 4240.378)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1213" data-name="Line 1213" x1="1.069" y1="36.939" transform="translate(1029.282 4240.378)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1214" data-name="Line 1214" x1="13.217" y2="1.08" transform="translate(1029.282 4239.298)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1215" data-name="Line 1215" x2="1.012" y2="32.125" transform="translate(1028.27 4208.253)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1216" data-name="Line 1216" x1="14.229" y1="31.045" transform="translate(1028.27 4208.253)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1217" data-name="Line 1217" x1="4.364" y2="18.269" transform="translate(1028.27 4189.984)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1218" data-name="Line 1218" x2="25.308" y2="34.082" transform="translate(1002.961 4174.172)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1219" data-name="Line 1219" x2="5.751" y2="14.96" transform="translate(997.21 4159.212)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1220" data-name="Line 1220" x2="7.525" y2="16.197" transform="translate(967.428 4157.131)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1221" data-name="Line 1221" x2="8.998" y2="14.735" transform="translate(940.141 4165.511)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1222" data-name="Line 1222" x2="10.517" y2="12.654" transform="translate(910.446 4187.332)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1223" data-name="Line 1223" x2="12.823" y2="9.167" transform="translate(890.424 4210.053)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1224" data-name="Line 1224" x2="14.37" y2="8.061" transform="translate(877.404 4244.397)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1225" data-name="Line 1225" x2="15.579" y2="4.555" transform="translate(873.833 4279.116)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1226" data-name="Line 1226" x2="16.535" y2="2.025" transform="translate(880.976 4308.136)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1227" data-name="Line 1227" y1="1.8" x2="13.16" transform="translate(899.873 4329.733)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1228" data-name="Line 1228" y1="5.456" x2="8.443" transform="translate(886.537 4361.395)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1229" data-name="Line 1229" x2="3.768" y2="11.281" transform="translate(891.212 4350.114)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1230" data-name="Line 1230" x1="7.592" y2="6.017" transform="translate(894.98 4355.378)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1231" data-name="Line 1231" y1="9.933" x2="6.473" transform="translate(898.799 4364.152)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1232" data-name="Line 1232" x2="10.292" y2="2.757" transform="translate(894.98 4361.395)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1233" data-name="Line 1233" x1="14.598" y2="3.075" transform="translate(905.272 4361.077)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1234" data-name="Line 1234" x1="17.495" y2="16.955" transform="translate(870.11 4366.161)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1235" data-name="Line 1235" x1="1.08" y1="33.339" transform="translate(870.11 4383.116)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1236" data-name="Line 1236" y1="21.09" x2="21.934" transform="translate(849.256 4416.456)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1237" data-name="Line 1237" y1="30.201" x2="29.526" transform="translate(819.73 4437.545)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1238" data-name="Line 1238" x1="2.306" y1="18.334" transform="translate(819.73 4467.747)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1239" data-name="Line 1239" x2="9.617" y2="15.101" transform="translate(849.256 4437.545)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1240" data-name="Line 1240" y1="33.435" x2="36.837" transform="translate(822.036 4452.646)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1241" data-name="Line 1241" x1="12.317" y2="36.191" transform="translate(858.873 4416.456)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1242" data-name="Line 1242" x1="23.452" y2="19.403" transform="translate(871.19 4397.053)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1243" data-name="Line 1243" x1="4.157" y2="22.968" transform="translate(894.642 4374.084)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1244" data-name="Line 1244" y1="42.371" x2="27.609" transform="translate(871.19 4374.084)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1245" data-name="Line 1245" y1="9.031" x2="28.689" transform="translate(870.11 4374.084)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1246" data-name="Line 1246" x1="24.532" y1="13.936" transform="translate(870.11 4383.116)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1247" data-name="Line 1247" y1="54.429" x2="20.854" transform="translate(849.256 4383.116)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1248" data-name="Line 1248" x1="21.746" y2="16.448" transform="translate(894.642 4380.605)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1249" data-name="Line 1249" y1="19.379" x2="2.645" transform="translate(891.998 4397.053)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1250" data-name="Line 1250" y1="36.214" x2="33.124" transform="translate(858.873 4416.432)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1251" data-name="Line 1251" y1="35.973" x2="16.021" transform="translate(842.852 4452.646)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1252" data-name="Line 1252" y1="6.411" x2="19.74" transform="translate(799.99 4467.747)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1253" data-name="Line 1253" x2="18.616" y2="25.89" transform="translate(793.747 4481.45)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1254" data-name="Line 1254" x1="23.677" y2="10.593" transform="translate(812.363 4496.747)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1255" data-name="Line 1255" x2="8.157" y2="8.783" transform="translate(815.793 4493.373)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1256" data-name="Line 1256" x2="11.213" y2="1.736" transform="translate(842.852 4488.619)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1257" data-name="Line 1257" x1="10.376" y2="0.868" transform="translate(854.065 4489.487)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1258" data-name="Line 1258" x1="4.546" y1="5.455" transform="translate(899.995 4417.388)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1259" data-name="Line 1259" x2="6.675" y2="2.898" transform="translate(893.32 4414.489)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1260" data-name="Line 1260" x2="6.598" y2="3.456" transform="translate(916.389 4380.605)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1261" data-name="Line 1261" x1="5.569" y1="6.749" transform="translate(922.987 4384.061)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1262" data-name="Line 1262" y1="24.111" x2="0.605" transform="translate(964.957 4529.274)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1263" data-name="Line 1263" x2="21.467" y2="1.68" transform="translate(944.095 4527.594)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1264" data-name="Line 1264" x1="33.576" y2="48.62" transform="translate(965.562 4480.654)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1265" data-name="Line 1265" y1="72.731" x2="34.18" transform="translate(964.957 4480.654)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1266" data-name="Line 1266" x1="11.233" y1="32.758" transform="translate(999.137 4480.654)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1267" data-name="Line 1267" y1="39.973" x2="45.413" transform="translate(964.957 4513.412)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1268" data-name="Line 1268" x1="21.556" y2="11.757" transform="translate(1010.37 4501.655)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1269" data-name="Line 1269" x1="5.174" y2="29.971" transform="translate(1031.925 4471.684)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1270" data-name="Line 1270" y1="18.238" x2="13.723" transform="translate(1023.377 4471.684)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1271" data-name="Line 1271" x2="24.24" y2="9.267" transform="translate(999.137 4480.654)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1272" data-name="Line 1272" x1="38.313" y2="11.26" transform="translate(1031.925 4490.395)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1273" data-name="Line 1273" x2="33.139" y2="18.712" transform="translate(1037.099 4471.684)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1274" data-name="Line 1274" x2="46.862" y2="0.474" transform="translate(1023.377 4489.921)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1275" data-name="Line 1275" x1="1.405" y2="12.016" transform="translate(963.551 4553.384)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1276" data-name="Line 1276" x1="106.687" y2="75.005" transform="translate(963.551 4490.395)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1277" data-name="Line 1277" x2="37.667" y2="25.164" transform="translate(864.441 4489.487)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1278" data-name="Line 1278" x1="6.82" y2="16.78" transform="translate(902.108 4497.872)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1279" data-name="Line 1279" x1="40.496" y1="26.678" transform="translate(902.108 4514.651)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1280" data-name="Line 1280" x1="27.541" y1="8.837" transform="translate(902.108 4514.651)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1281" data-name="Line 1281" x1="9.5" y1="2.049" transform="translate(904.541 4422.843)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1282" data-name="Line 1282" y1="3.195" x2="55.453" transform="translate(744.199 4314.998)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1283" data-name="Line 1283" x1="29.358" y1="27.108" transform="translate(799.652 4314.998)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1284" data-name="Line 1284" x1="25.646" y2="32.038" transform="translate(799.652 4282.959)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1285" data-name="Line 1285" x1="45.661" y2="33.03" transform="translate(799.652 4281.968)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1286" data-name="Line 1286" y1="0.992" x2="20.015" transform="translate(825.298 4281.968)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1287" data-name="Line 1287" y2="40.308" transform="translate(845.313 4241.66)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1288" data-name="Line 1288" x2="22.831" y2="23.66" transform="translate(822.483 4258.307)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1289" data-name="Line 1289" x1="2.815" y1="24.652" transform="translate(822.483 4258.307)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1290" data-name="Line 1290" x1="22.831" y2="16.647" transform="translate(822.483 4241.66)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1291" data-name="Line 1291" x1="19.629" y2="15.072" transform="translate(845.313 4226.588)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1292" data-name="Line 1292" x2="12.601" y2="11.462" transform="translate(835.306 4216.87)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1293" data-name="Line 1293" y1="13.329" x2="2.593" transform="translate(845.313 4228.331)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1294" data-name="Line 1294" x1="9.974" y2="2.18" transform="translate(845.313 4279.788)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1295" data-name="Line 1295" y1="60.138" x2="16.304" transform="translate(829.01 4281.968)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1296" data-name="Line 1296" y1="27.547" x2="18.747" transform="translate(833.209 4325.076)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1297" data-name="Line 1297" x1="5.462" y2="29.866" transform="translate(851.956 4295.21)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1298" data-name="Line 1298" x1="13.076" y1="11.719" transform="translate(851.956 4325.076)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1299" data-name="Line 1299" x1="13.558" y1="2.78" transform="translate(865.032 4336.795)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1300" data-name="Line 1300" y1="20.051" x2="26.847" transform="translate(932.941 4320.419)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1301" data-name="Line 1301" x1="5.174" y1="8.848" transform="translate(1082.767 4267.793)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1302" data-name="Line 1302" x2="88.421" y2="11.885" transform="translate(1103.351 4405.468)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1303" data-name="Line 1303" x1="2.306" y1="14.449" transform="translate(862.135 4475.038)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1304" data-name="Line 1304" x1="31.185" y2="60.549" transform="translate(862.135 4414.489)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1305" data-name="Line 1305" y1="15.317" x2="8.071" transform="translate(854.065 4475.038)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1306" data-name="Line 1306" x1="3.259" y1="9.872" transform="translate(898.776 4321.364)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1307" data-name="Line 1307" x2="1.265" y2="11.203" transform="translate(897.511 4310.161)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1308" data-name="Line 1308" x2="12.035" y2="13.245" transform="translate(885.475 4296.917)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1309" data-name="Line 1309" x1="3.937" y2="13.245" transform="translate(885.475 4283.672)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <circle id="Ellipse_1007" data-name="Ellipse 1007" cx="4.529" cy="4.529" r="4.529" transform="translate(1009.399 4299.108)" fill="#396fef"/>
+      <circle id="Ellipse_1008" data-name="Ellipse 1008" cx="4.529" cy="4.529" r="4.529" transform="translate(872.876 4239.869)" fill="#396fef"/>
+      <circle id="Ellipse_1009" data-name="Ellipse 1009" cx="4.529" cy="4.529" r="4.529" transform="translate(885.896 4205.524)" fill="#396fef"/>
+      <circle id="Ellipse_1010" data-name="Ellipse 1010" cx="4.529" cy="4.529" r="4.529" transform="translate(915.713 4194.59)" fill="#396fef"/>
+      <circle id="Ellipse_1011" data-name="Ellipse 1011" cx="4.529" cy="4.529" r="4.529" transform="translate(787.168 4201.025)" fill="#396fef"/>
+      <circle id="Ellipse_1012" data-name="Ellipse 1012" cx="4.529" cy="4.529" r="4.529" transform="translate(739.67 4313.664)" fill="#396fef"/>
+      <circle id="Ellipse_1013" data-name="Ellipse 1013" cx="4.529" cy="4.529" r="4.529" transform="translate(787.7 4456.807)" fill="#396fef"/>
+      <circle id="Ellipse_1014" data-name="Ellipse 1014" cx="4.529" cy="4.529" r="4.529" transform="translate(831.511 4492.218)" fill="#396fef"/>
+      <circle id="Ellipse_1015" data-name="Ellipse 1015" cx="4.529" cy="4.529" r="4.529" transform="translate(888.791 4409.96)" fill="#396fef"/>
+      <circle id="Ellipse_1016" data-name="Ellipse 1016" cx="4.529" cy="4.529" r="4.529" transform="translate(1014.672 4344.697)" fill="#396fef"/>
+      <circle id="Ellipse_1017" data-name="Ellipse 1017" cx="4.529" cy="4.529" r="4.529" transform="translate(1044.275 4315.313)" fill="#396fef"/>
+      <circle id="Ellipse_1018" data-name="Ellipse 1018" cx="4.529" cy="4.529" r="4.529" transform="translate(1113.466 4351.43)" fill="#396fef"/>
+      <circle id="Ellipse_1019" data-name="Ellipse 1019" cx="4.529" cy="4.529" r="4.529" transform="translate(955.259 4485.827)" fill="#396fef"/>
+      <circle id="Ellipse_1020" data-name="Ellipse 1020" cx="4.529" cy="4.529" r="4.529" transform="translate(884.096 4178.754)" fill="#396fef"/>
+      <circle id="Ellipse_1021" data-name="Ellipse 1021" cx="4.529" cy="4.529" r="4.529" transform="translate(935.612 4160.982)" fill="#396fef"/>
+      <circle id="Ellipse_1022" data-name="Ellipse 1022" cx="4.529" cy="4.529" r="4.529" transform="translate(1032.921 4150.663)" fill="#396fef"/>
+      <circle id="Ellipse_1023" data-name="Ellipse 1023" cx="4.529" cy="4.529" r="4.529" transform="translate(1064.199 4284.239)" fill="#396fef"/>
+      <circle id="Ellipse_1024" data-name="Ellipse 1024" cx="4.529" cy="4.529" r="4.529" transform="translate(1074.151 4255.091)" fill="#396fef"/>
+      <circle id="Ellipse_1025" data-name="Ellipse 1025" cx="4.529" cy="4.529" r="4.529" transform="translate(1061.384 4200.11)" fill="#396fef"/>
+      <circle id="Ellipse_1026" data-name="Ellipse 1026" cx="3.017" cy="3.017" r="3.017" transform="translate(1153.987 4392.348)" fill="#396fef"/>
+      <circle id="Ellipse_1027" data-name="Ellipse 1027" cx="3.017" cy="3.017" r="3.017" transform="translate(1140.152 4356.601)" fill="#396fef"/>
+      <circle id="Ellipse_1028" data-name="Ellipse 1028" cx="3.017" cy="3.017" r="3.017" transform="translate(1152.824 4344.164)" fill="#396fef"/>
+      <circle id="Ellipse_1029" data-name="Ellipse 1029" cx="3.017" cy="3.017" r="3.017" transform="translate(1168.834 4334.477)" fill="#396fef"/>
+      <circle id="Ellipse_1030" data-name="Ellipse 1030" cx="3.017" cy="3.017" r="3.017" transform="translate(1142.176 4321.316)" fill="#396fef"/>
+      <circle id="Ellipse_1031" data-name="Ellipse 1031" cx="3.017" cy="3.017" r="3.017" transform="translate(1175.246 4374.464)" fill="#396fef"/>
+      <circle id="Ellipse_1032" data-name="Ellipse 1032" cx="3.017" cy="3.017" r="3.017" transform="translate(1073.226 4391.505)" fill="#396fef"/>
+      <circle id="Ellipse_1033" data-name="Ellipse 1033" cx="3.017" cy="3.017" r="3.017" transform="translate(996.12 4477.637)" fill="#396fef"/>
+      <circle id="Ellipse_1034" data-name="Ellipse 1034" cx="3.017" cy="3.017" r="3.017" transform="translate(1020.713 4486.435)" fill="#396fef"/>
+      <circle id="Ellipse_1035" data-name="Ellipse 1035" cx="3.017" cy="3.017" r="3.017" transform="translate(1034.082 4468.667)" fill="#396fef"/>
+      <circle id="Ellipse_1036" data-name="Ellipse 1036" cx="3.017" cy="3.017" r="3.017" transform="translate(962.544 4526.257)" fill="#396fef"/>
+      <circle id="Ellipse_1037" data-name="Ellipse 1037" cx="3.017" cy="3.017" r="3.017" transform="translate(899.091 4511.634)" fill="#396fef"/>
+      <circle id="Ellipse_1038" data-name="Ellipse 1038" cx="3.017" cy="3.017" r="3.017" transform="translate(816.713 4464.729)" fill="#396fef"/>
+      <circle id="Ellipse_1039" data-name="Ellipse 1039" cx="3.017" cy="3.017" r="3.017" transform="translate(846.239 4434.529)" fill="#396fef"/>
+      <circle id="Ellipse_1040" data-name="Ellipse 1040" cx="3.017" cy="3.017" r="3.017" transform="translate(867.093 4380.099)" fill="#396fef"/>
+      <circle id="Ellipse_1041" data-name="Ellipse 1041" cx="3.017" cy="3.017" r="3.017" transform="translate(868.173 4413.438)" fill="#396fef"/>
+      <path id="Path_1151" data-name="Path 1151" d="M820.883,4434.551l-21.568-31.706,20.415,2.623Z" fill="#fff" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <circle id="Ellipse_1042" data-name="Ellipse 1042" cx="3.017" cy="3.017" r="3.017" transform="translate(796.298 4399.828)" fill="#396fef"/>
+      <circle id="Ellipse_1043" data-name="Ellipse 1043" cx="3.017" cy="3.017" r="3.017" transform="translate(817.866 4431.534)" fill="#396fef"/>
+      <circle id="Ellipse_1044" data-name="Ellipse 1044" cx="3.017" cy="3.017" r="3.017" transform="translate(816.713 4402.451)" fill="#396fef"/>
+      <circle id="Ellipse_1045" data-name="Ellipse 1045" cx="3.017" cy="3.017" r="3.017" transform="translate(840.84 4406.943)" fill="#396fef"/>
+      <circle id="Ellipse_1046" data-name="Ellipse 1046" cx="3.017" cy="3.017" r="3.017" transform="translate(911.024 4421.875)" fill="#396fef"/>
+      <circle id="Ellipse_1047" data-name="Ellipse 1047" cx="3.017" cy="3.017" r="3.017" transform="translate(820.883 4380.099)" fill="#396fef"/>
+      <circle id="Ellipse_1048" data-name="Ellipse 1048" cx="3.017" cy="3.017" r="3.017" transform="translate(825.695 4384.418)" fill="#396fef"/>
+      <circle id="Ellipse_1049" data-name="Ellipse 1049" cx="3.017" cy="3.017" r="3.017" transform="translate(925.538 4387.793)" fill="#396fef"/>
+      <circle id="Ellipse_1050" data-name="Ellipse 1050" cx="3.017" cy="3.017" r="3.017" transform="translate(888.138 4463.652)" fill="#396fef"/>
+      <circle id="Ellipse_1051" data-name="Ellipse 1051" cx="3.017" cy="3.017" r="3.017" transform="translate(908.846 4455.524)" fill="#396fef"/>
+      <circle id="Ellipse_1052" data-name="Ellipse 1052" cx="3.017" cy="3.017" r="3.017" transform="translate(1076.554 4503.964)" fill="#396fef"/>
+      <circle id="Ellipse_1053" data-name="Ellipse 1053" cx="3.017" cy="3.017" r="3.017" transform="translate(919.97 4381.044)" fill="#396fef"/>
+      <circle id="Ellipse_1054" data-name="Ellipse 1054" cx="3.017" cy="3.017" r="3.017" transform="translate(901.524 4419.826)" fill="#396fef"/>
+      <circle id="Ellipse_1055" data-name="Ellipse 1055" cx="3.017" cy="3.017" r="3.017" transform="translate(999.438 4369.458)" fill="#396fef"/>
+      <circle id="Ellipse_1056" data-name="Ellipse 1056" cx="3.017" cy="3.017" r="3.017" transform="translate(1026.209 4350.382)" fill="#396fef"/>
+      <circle id="Ellipse_1057" data-name="Ellipse 1057" cx="3.017" cy="3.017" r="3.017" transform="translate(976.96 4309.844)" fill="#396fef"/>
+      <circle id="Ellipse_1058" data-name="Ellipse 1058" cx="3.017" cy="3.017" r="3.017" transform="translate(953.771 4329.752)" fill="#396fef"/>
+      <circle id="Ellipse_1059" data-name="Ellipse 1059" cx="3.017" cy="3.017" r="3.017" transform="translate(956.77 4317.402)" fill="#396fef"/>
+      <circle id="Ellipse_1060" data-name="Ellipse 1060" cx="3.017" cy="3.017" r="3.017" transform="translate(1002.408 4263.006)" fill="#396fef"/>
+      <circle id="Ellipse_1061" data-name="Ellipse 1061" cx="3.017" cy="3.017" r="3.017" transform="translate(1026.265 4237.361)" fill="#396fef"/>
+      <circle id="Ellipse_1062" data-name="Ellipse 1062" cx="3.017" cy="3.017" r="3.017" transform="translate(1025.253 4205.236)" fill="#396fef"/>
+      <circle id="Ellipse_1063" data-name="Ellipse 1063" cx="3.017" cy="3.017" r="3.017" transform="translate(912.424 4344.347)" fill="#396fef"/>
+      <circle id="Ellipse_1064" data-name="Ellipse 1064" cx="3.017" cy="3.017" r="3.017" transform="translate(872.602 4320.419)" fill="#396fef"/>
+      <circle id="Ellipse_1065" data-name="Ellipse 1065" cx="3.017" cy="3.017" r="3.017" transform="translate(988.19 4354.942)" fill="#396fef"/>
+      <circle id="Ellipse_1066" data-name="Ellipse 1066" cx="3.017" cy="3.017" r="3.017" transform="translate(953.28 4348.296)" fill="#396fef"/>
+      <circle id="Ellipse_1067" data-name="Ellipse 1067" cx="3.017" cy="3.017" r="3.017" transform="translate(989.049 4337.591)" fill="#396fef"/>
+      <circle id="Ellipse_1068" data-name="Ellipse 1068" cx="3.017" cy="3.017" r="3.017" transform="translate(962.976 4278.951)" fill="#396fef"/>
+      <circle id="Ellipse_1069" data-name="Ellipse 1069" cx="3.017" cy="3.017" r="3.017" transform="translate(1055.749 4329.752)" fill="#396fef"/>
+      <circle id="Ellipse_1070" data-name="Ellipse 1070" cx="3.017" cy="3.017" r="3.017" transform="translate(1063.601 4305.262)" fill="#396fef"/>
+      <circle id="Ellipse_1071" data-name="Ellipse 1071" cx="3.017" cy="3.017" r="3.017" transform="translate(1072.911 4298.777)" fill="#396fef"/>
+      <circle id="Ellipse_1072" data-name="Ellipse 1072" cx="3.017" cy="3.017" r="3.017" transform="translate(1084.924 4273.625)" fill="#396fef"/>
+      <circle id="Ellipse_1073" data-name="Ellipse 1073" cx="3.017" cy="3.017" r="3.017" transform="translate(1152.637 4299.72)" fill="#396fef"/>
+      <circle id="Ellipse_1074" data-name="Ellipse 1074" cx="3.017" cy="3.017" r="3.017" transform="translate(1047.693 4258.856)" fill="#396fef"/>
+      <circle id="Ellipse_1075" data-name="Ellipse 1075" cx="3.017" cy="3.017" r="3.017" transform="translate(1049.099 4230.357)" fill="#396fef"/>
+      <circle id="Ellipse_1076" data-name="Ellipse 1076" cx="3.017" cy="3.017" r="3.017" transform="translate(1046.737 4193.988)" fill="#396fef"/>
+      <circle id="Ellipse_1077" data-name="Ellipse 1077" cx="3.017" cy="3.017" r="3.017" transform="translate(1128.566 4290.047)" fill="#396fef"/>
+      <circle id="Ellipse_1078" data-name="Ellipse 1078" cx="3.017" cy="3.017" r="3.017" transform="translate(1149.807 4288.302)" fill="#396fef"/>
+      <circle id="Ellipse_1079" data-name="Ellipse 1079" cx="3.017" cy="3.017" r="3.017" transform="translate(1126.967 4277.356)" fill="#396fef"/>
+      <circle id="Ellipse_1080" data-name="Ellipse 1080" cx="3.017" cy="3.017" r="3.017" transform="translate(1096.039 4262.056)" fill="#396fef"/>
+      <circle id="Ellipse_1081" data-name="Ellipse 1081" cx="3.017" cy="3.017" r="3.017" transform="translate(1029.747 4299.836)" fill="#396fef"/>
+      <circle id="Ellipse_1082" data-name="Ellipse 1082" cx="3.017" cy="3.017" r="3.017" transform="translate(882.458 4293.899)" fill="#396fef"/>
+      <circle id="Ellipse_1083" data-name="Ellipse 1083" cx="3.017" cy="3.017" r="3.017" transform="translate(842.296 4278.951)" fill="#396fef"/>
+      <circle id="Ellipse_1084" data-name="Ellipse 1084" cx="3.017" cy="3.017" r="3.017" transform="translate(819.466 4255.291)" fill="#396fef"/>
+      <circle id="Ellipse_1085" data-name="Ellipse 1085" cx="3.017" cy="3.017" r="3.017" transform="translate(796.635 4311.98)" fill="#396fef"/>
+      <circle id="Ellipse_1086" data-name="Ellipse 1086" cx="3.017" cy="3.017" r="3.017" transform="translate(822.678 4279.447)" fill="#396fef"/>
+      <line id="Line_1310" data-name="Line 1310" x1="24.127" y1="4.492" transform="translate(819.73 4405.468)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1311" data-name="Line 1311" x1="5.399" y1="27.585" transform="translate(843.857 4409.96)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <path id="Path_1152" data-name="Path 1152" d="M773.669,4294.336,746.3,4269.114l17.247-23.348Z" fill="#fff" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <circle id="Ellipse_1087" data-name="Ellipse 1087" cx="3.017" cy="3.017" r="3.017" transform="translate(770.652 4291.319)" fill="#396fef"/>
+      <circle id="Ellipse_1088" data-name="Ellipse 1088" cx="3.017" cy="3.017" r="3.017" transform="translate(783.587 4346.209)" fill="#396fef"/>
+      <circle id="Ellipse_1089" data-name="Ellipse 1089" cx="3.017" cy="3.017" r="3.017" transform="translate(743.282 4266.097)" fill="#396fef"/>
+      <circle id="Ellipse_1090" data-name="Ellipse 1090" cx="3.017" cy="3.017" r="3.017" transform="translate(760.529 4242.749)" fill="#396fef"/>
+      <path id="Path_1153" data-name="Path 1153" d="M962.224,4147.851l-29.057-7.761-2.663-23.958,27.634,10.686Z" fill="#fff" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <circle id="Ellipse_1091" data-name="Ellipse 1091" cx="3.017" cy="3.017" r="3.017" transform="translate(930.15 4137.073)" fill="#396fef"/>
+      <circle id="Ellipse_1092" data-name="Ellipse 1092" cx="3.017" cy="3.017" r="3.017" transform="translate(927.487 4113.115)" fill="#396fef"/>
+      <circle id="Ellipse_1093" data-name="Ellipse 1093" cx="3.017" cy="3.017" r="3.017" transform="translate(955.121 4123.8)" fill="#396fef"/>
+      <circle id="Ellipse_1094" data-name="Ellipse 1094" cx="3.017" cy="3.017" r="3.017" transform="translate(959.207 4144.834)" fill="#396fef"/>
+      <circle id="Ellipse_1095" data-name="Ellipse 1095" cx="3.017" cy="3.017" r="3.017" transform="translate(992.397 4143.983)" fill="#396fef"/>
+      <circle id="Ellipse_1096" data-name="Ellipse 1096" cx="3.275" cy="3.275" r="3.275" transform="translate(978.214 4143.726)" fill="#396fef"/>
+      <path id="Path_1154" data-name="Path 1154" d="M950.827,4261.873l-23.339,12.321,4.085-52.825,22.179,14.471Z" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <circle id="Ellipse_1097" data-name="Ellipse 1097" cx="3.017" cy="3.017" r="3.017" transform="translate(928.555 4218.352)" fill="#396fef"/>
+      <circle id="Ellipse_1098" data-name="Ellipse 1098" cx="3.017" cy="3.017" r="3.017" transform="translate(950.734 4232.822)" fill="#396fef"/>
+      <circle id="Ellipse_1099" data-name="Ellipse 1099" cx="3.017" cy="3.017" r="3.017" transform="translate(924.47 4271.177)" fill="#396fef"/>
+      <circle id="Ellipse_1100" data-name="Ellipse 1100" cx="3.017" cy="3.017" r="3.017" transform="translate(947.81 4258.856)" fill="#396fef"/>
+      <circle id="Ellipse_1101" data-name="Ellipse 1101" cx="3.017" cy="3.017" r="3.017" transform="translate(941.653 4242.749)" fill="#396fef"/>
+      <circle id="Ellipse_1102" data-name="Ellipse 1102" cx="3.017" cy="3.017" r="3.017" transform="translate(932.924 4179.326)" fill="#396fef"/>
+      <circle id="Ellipse_1103" data-name="Ellipse 1103" cx="3.017" cy="3.017" r="3.017" transform="translate(895.843 4258.307)" fill="#396fef"/>
+      <circle id="Ellipse_1104" data-name="Ellipse 1104" cx="3.017" cy="3.017" r="3.017" transform="translate(903.436 4264.167)" fill="#396fef"/>
+      <line id="Line_1312" data-name="Line 1312" x1="7.086" y1="8.866" transform="translate(891.774 4252.458)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1313" data-name="Line 1313" y1="10.629" x2="7.424" transform="translate(889.412 4273.042)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1314" data-name="Line 1314" x1="2.025" y2="11.718" transform="translate(896.836 4261.324)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1315" data-name="Line 1315" x1="9.448" y1="5.859" transform="translate(898.86 4261.324)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1316" data-name="Line 1316" x1="19.178" y1="7.01" transform="translate(908.309 4267.184)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1317" data-name="Line 1317" y1="69.626" x2="49.154" transform="translate(822.036 4416.456)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1318" data-name="Line 1318" y1="17.186" x2="14.809" transform="translate(920.242 4181.933)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1319" data-name="Line 1319" x1="14.257" y2="0.675" transform="translate(935.051 4181.258)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1320" data-name="Line 1320" x2="20.513" y2="41.845" transform="translate(855.105 4281.591)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1321" data-name="Line 1321" x1="39.822" y1="23.928" transform="translate(875.619 4323.437)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1322" data-name="Line 1322" x1="4.232" y1="17.544" transform="translate(875.619 4323.437)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1323" data-name="Line 1323" x2="23.628" y2="20.423" transform="translate(958.138 4126.817)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_1324" data-name="Line 1324" y1="0.611" x2="19.542" transform="translate(962.224 4147.24)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_1325" data-name="Line 1325" x1="21.804" y2="3.473" transform="translate(995.414 4143.527)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_1326" data-name="Line 1326" y1="4.133" x2="5.627" transform="translate(981.765 4143.107)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_1327" data-name="Line 1327" x1="8.022" y1="3.893" transform="translate(987.393 4143.107)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_1155" data-name="Path 1155" d="M992.066,4459.311l-16.61-4.949-6.446-26.453,30.746,15.7Z" fill="#fff" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <circle id="Ellipse_1105" data-name="Ellipse 1105" cx="3.017" cy="3.017" r="3.017" transform="translate(972.439 4451.344)" fill="#396fef"/>
+      <circle id="Ellipse_1106" data-name="Ellipse 1106" cx="3.017" cy="3.017" r="3.017" transform="translate(965.993 4424.892)" fill="#396fef"/>
+      <circle id="Ellipse_1107" data-name="Ellipse 1107" cx="3.017" cy="3.017" r="3.017" transform="translate(995.679 4440.052)" fill="#396fef"/>
+      <circle id="Ellipse_1108" data-name="Ellipse 1108" cx="3.017" cy="3.017" r="3.017" transform="translate(989.049 4456.293)" fill="#396fef"/>
+      <circle id="Ellipse_1109" data-name="Ellipse 1109" cx="3.017" cy="3.017" r="3.017" transform="translate(851.048 4487.338)" fill="#396fef"/>
+      <line id="Line_1328" data-name="Line 1328" x1="11.338" y2="40.51" transform="translate(904.541 4382.333)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <path id="Path_1156" data-name="Path 1156" d="M956.724,4398.721l14.505-13.779,10.066,7.633Z" fill="#fff" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1329" data-name="Line 1329" x2="37.876" y2="18.594" transform="translate(748.728 4330.632)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1330" data-name="Line 1330" x1="46.604" y1="3.396" transform="translate(786.604 4349.226)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1331" data-name="Line 1331" x2="4.812" y2="4.319" transform="translate(823.9 4383.116)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1332" data-name="Line 1332" y1="5.014" x2="6.16" transform="translate(891.155 4461.655)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1333" data-name="Line 1333" x1="14.548" y2="3.114" transform="translate(897.315 4458.541)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <path id="Path_1157" data-name="Path 1157" d="M1073.256,4319.834l14.684,47.017,3.017-35.916Z" fill="#e6edfd"/>
+      <path id="Path_1158" data-name="Path 1158" d="M1106.111,4213.141l-10.072,20.983,44.953.892Z" fill="#e6edfd"/>
+      <path id="Path_1159" data-name="Path 1159" d="M917.19,4111.125,898,4141.326l17.154,37.217Z" fill="#fff"/>
+      <path id="Path_1160" data-name="Path 1160" d="M820.147,4235.73l4.925-35.443-31.055-26.739Z" fill="#fff"/>
+      <path id="Path_1161" data-name="Path 1161" d="M1087.114,4467.414l-24.476-26.1-40.315,7.354Z" fill="#fff"/>
+      <line id="Line_1334" data-name="Line 1334" x1="10.737" y1="4.57" transform="translate(1068.833 4502.411)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <circle id="Ellipse_1110" data-name="Ellipse 1110" cx="3.017" cy="3.017" r="3.017" transform="translate(955.271 4395.313)" fill="#396fef"/>
+      <circle id="Ellipse_1111" data-name="Ellipse 1111" cx="3.017" cy="3.017" r="3.017" transform="translate(968.212 4381.924)" fill="#396fef"/>
+      <circle id="Ellipse_1112" data-name="Ellipse 1112" cx="3.017" cy="3.017" r="3.017" transform="translate(978.278 4389.558)" fill="#396fef"/>
+      <line id="Line_1335" data-name="Line 1335" x1="9.081" y2="9.926" transform="translate(944.67 4235.839)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1336" data-name="Line 1336" y1="28.428" x2="17.182" transform="translate(927.487 4245.766)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1337" data-name="Line 1337" x1="6.157" y1="16.107" transform="translate(944.67 4245.766)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1338" data-name="Line 1338" y1="23.49" x2="13.007" transform="translate(1010.37 4489.921)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1339" data-name="Line 1339" x1="17.517" y2="7.509" transform="translate(1031.287 4319.841)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1340" data-name="Line 1340" y1="29.11" x2="1.865" transform="translate(1064.508 4246.857)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <line id="Line_1341" data-name="Line 1341" y1="68.47" x2="21.802" transform="translate(833.712 4282.959)" fill="none" stroke="#396fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.097"/>
+      <circle id="Ellipse_1113" data-name="Ellipse 1113" cx="4.529" cy="4.529" r="4.529" transform="translate(818.559 4210.04)" fill="#396fef"/>
+      <circle id="Ellipse_1114" data-name="Ellipse 1114" cx="4.529" cy="4.529" r="4.529" transform="translate(1029.984 4441.557)" fill="#396fef"/>
+      <circle id="Ellipse_1115" data-name="Ellipse 1115" cx="4.529" cy="4.529" r="4.529" transform="translate(1037.75 4450.253)" fill="#396fef"/>
+      <circle id="Ellipse_1116" data-name="Ellipse 1116" cx="4.529" cy="4.529" r="4.529" transform="translate(804.229 4205.925)" fill="#396fef"/>
+    </g>
+  </g>
+</svg>
